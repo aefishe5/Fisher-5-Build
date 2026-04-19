@@ -9,3 +9,6 @@ New links added to website:
 * Film Screenings - screenings.html
 * Workshops - workshops.html
 * Collaborations - collaborations.html
+
+Link to published site:
+https://aefishe5.github.io/Fisher-5-Build/index.html
